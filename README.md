@@ -29,3 +29,17 @@ When faced with a dangerous situation, users can simply press the corresponding 
 The app's other features, such as crime mapping, secure messaging, and AI-powered safety recommendations, can be accessed through the app's intuitive interface. Users are encouraged to explore these features and utilize them to enhance their overall safety and preparedness.
 # Conclusion
 The Student Safety App is a powerful tool that can help students feel more secure and empowered in their daily lives. By providing a range of advanced features and a user-friendly interface, the app aims to be a reliable companion for students navigating the challenges of campus life. With the app's emergency button and other safety features, students can rest assured that help is always within reach in case of an emergency.
+![IMG-20240816-WA0034](https://github.com/user-attachments/assets/ffdac39f-c0b9-411c-8b39-fc4512d8f752)
+![IMG-20240816-WA0033](https://github.com/user-attachments/assets/832ff1f4-3882-4887-9301-769f184bfa76)
+![IMG-20240816-WA0032](https://github.com/user-attachments/assets/c916008f-5824-4fff-9fbf-09668197e6cf)
+![IMG-20240816-WA0031](https://github.com/user-attachments/assets/c70539b5-4abf-42c4-86e6-06b0a9b60457)
+![IMG-20240816-WA0030](https://github.com/user-attachments/assets/5f6ea556-812c-4973-9a21-dd7abe6bc161)
+![IMG-20240816-WA0029](https://github.com/user-attachments/assets/ce78b047-4ee1-4601-94f1-d609619f745a)
+![IMG-20240816-WA0042](https://github.com/user-attachments/assets/2461365c-ea4c-49f3-b114-56b2c1360f7e)
+![IMG-20240816-WA0041](https://github.com/user-attachments/assets/7d9bac50-8d3c-4394-b904-000dc223620a)
+![IMG-20240816-WA0040](https://github.com/user-attachments/assets/e5b2a514-2a24-4661-8a4c-11672d6d1125)
+![IMG-20240816-WA0039](https://github.com/user-attachments/assets/4dde96bb-7505-4e6a-8ab4-632aba7683ee)
+![IMG-20240816-WA0038](https://github.com/user-attachments/assets/f8ecf084-910c-4f61-ae8c-195f9a7cfb40)
+![IMG-20240816-WA0037](https://github.com/user-attachments/assets/2410f433-41e8-4048-8d3d-5541816c1ead)
+![IMG-20240816-WA0036](https://github.com/user-attachments/assets/146bfaa5-58f9-43a7-b096-b2495968fd6e)
+![IMG-20240816-WA0035](https://github.com/user-attachments/assets/6c6e3423-0565-4939-9686-c9eea88aebe3)
