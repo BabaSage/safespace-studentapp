@@ -1,0 +1,25 @@
+
+C
+java:S16048"(Make this anonymous inner class a lambda(È¹·›úÿÿÿÿ
+>
+java:S1604L"(Make this anonymous inner class a lambda(„ÑñŒ
+~
+java:S1450."\Remove the "audioFilePath" field and declare it as a local variable in the relevant methods.(™ºØ¥ûÿÿÿÿ8½ßû±ú1
+y
+java:S1450/"\Remove the "videoFilePath" field and declare it as a local variable in the relevant methods.(¹óýÅ8¿ßû±ú1
+b
+java:S11177"@Rename "rescueButton" which hides the field declared at line 48.(þÔ¢Éýÿÿÿÿ8ñßû±ú1
+E
+java:S1874L"/Remove this use of "Handler"; it is deprecated.(„ÑñŒ
+P
+java:S1874X"5Remove this use of "MediaRecorder"; it is deprecated.(©ˆ ½ýÿÿÿÿ
+`
+java:S1874z">Remove this use of "startActivityForResult"; it is deprecated.(öäžúÿÿÿÿÿ8¤©éœý1
+U
+java:S1172¥"2Remove this unused method parameter "phoneNumber".(€÷º²ýÿÿÿÿ8‚áû±ú1
+m
+java:S1874Ê"JDon't override a deprecated method or explicitly mark it as "@Deprecated".(Ó»×¶þÿÿÿÿ8ß©éœý1
+z
+java:S3252ä"WUse static access with "androidx.core.content.ContextCompat" for "checkSelfPermission".(îÄ¤¸üÿÿÿÿ8˜ªéœý1
+R
+java:S10680"0Remove this unused "rescueButton" private field.(«¶ñÝþÿÿÿÿ8Åáû±ú1

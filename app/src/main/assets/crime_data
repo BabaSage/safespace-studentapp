@@ -1,0 +1,406 @@
+[
+  {
+    "location": {
+      "latitude": -20.132507,
+      "longitude": 28.626478
+    },
+    "date": "2023-03-01",
+    "type": "Theft",
+    "description": "A package was stolen from a porch.",
+    "address": {
+      "street": "123 Main St",
+      "city": "Bulawayo",
+      "country": "Zimbabwe"
+    },
+    "time": "12:34 PM",
+    "status": "In Progress",
+    "investigating_officer": "Officer Smith",
+    "witnesses": [
+      "John Doe",
+      "Jane Smith"
+    ],
+    "evidence": [
+      "Security camera footage",
+      "Fingerprints"
+    ],
+    "vehicle_involved": {
+      "make": "Toyota",
+      "model": "Corolla",
+      "color": "Blue",
+      "license_plate": "ABC-123"
+    }
+  },
+  {
+    "location": {
+      "latitude": -85.061356,
+      "longitude": 21.893622
+    },
+    "date": "2023-03-02",
+    "type": "Assault",
+    "description": "A person was assaulted on the street.",
+    "address": {
+      "street": "456 Elm St",
+      "city": "Bulawayo",
+      "country": "Zimbabwe"
+    },
+    "time": "3:45 AM",
+    "status": "Closed",
+    "investigating_officer": "Officer Johnson",
+    "witnesses": [
+      "Jim Brown"
+    ],
+    "evidence": [
+      "CCTV footage",
+      "Blood samples"
+    ],
+    "vehicle_involved": {
+      "make": "Honda",
+      "model": "Civic",
+      "color": "Red",
+      "license_plate": "DEF-456"
+    }
+  },
+  {
+    "location": {
+      "latitude": -20.1721,
+      "longitude": 28.5695
+    },
+    "date": "2023-03-03",
+    "type": "Vandalism",
+    "description": "A car was vandalized in a parking lot.",
+    "address": {
+      "street": "789 Oak St",
+      "city": "Bulawayo",
+      "country": "Zimbabwe"
+    },
+    "time": "6:15 PM",
+    "status": "Open",
+    "investigating_officer": "Officer Davis",
+    "witnesses": [],
+    "evidence": [
+      "Security camera footage"
+    ],
+    "vehicle_involved": {
+      "make": "Ford",
+      "model": "Mustang",
+      "color": "Black",
+      "license_plate": "GHI-789"
+    }
+  },
+  {
+    "location": {
+      "latitude": -20.1721,
+      "longitude": 28.5695
+    },
+    "date": "2023-03-04",
+    "type": "Burglary",
+    "description": "A house was broken into and items were stolen.",
+    "address": {
+      "street": "321 Maple St",
+      "city": "Bulawayo",
+      "country": "Zimbabwe"
+    },
+    "time": "10:00 PM",
+    "status": "In Progress",
+    "investigating_officer": "Officer Brown",
+    "witnesses": [
+      "Sarah Johnson"
+    ],
+    "evidence": [
+      "Footprints",
+      "Fingerprints"
+    ],
+    "vehicle_involved": {
+      "make": "Chevrolet",
+      "model": "Camaro",
+      "color": "Green",
+      "license_plate": "JKL-012"
+    }
+  },
+  {
+    "location": {
+      "latitude": -20.1721,
+      "longitude": 28.5695
+    },
+    "date": "2023-03-05",
+    "type": "Robbery",
+    "description": "A person was robbed at gunpoint.",
+    "address": {
+      "street": "654 Pine St",
+      "city": "Bulawayo",
+      "country": "Zimbabwe"
+    },
+    "time": "7:30 PM",
+    "status": "Closed",
+    "investigating_officer": "Officer Green",
+    "witnesses": [
+      "Michael Lee"
+    ],
+    "evidence": [
+      "CCTV footage",
+      "Weapon"
+    ],
+    "vehicle_involved": {
+      "make": "Nissan",
+      "model": "Navara",
+      "color": "Silver",
+      "license_plate": "MNO-345"
+    }
+  },
+  {
+    "location": {
+      "latitude": -20.1721,
+      "longitude": 28.5695
+    },
+    "date": "2023-03-06",
+    "type": "Fraud",
+    "description": "A person's identity was stolen and used for fraudulent activities.",
+    "address": {
+      "street": "987 Cedar St",
+      "city": "Bulawayo",
+      "country": "Zimbabwe"
+    },
+    "time": "11:00 AM",
+    "status": "Open",
+    "investigating_officer": "Officer White",
+    "witnesses": [],
+    "evidence": [
+      "Financial records",
+      "Online activity logs"
+    ],
+    "vehicle_involved": {
+      "make": "Hyundai",
+      "model": "Sonata",
+      "color": "White",
+      "license_plate": "PQR-678"
+    }
+  },
+  {
+    "location": {
+      "latitude": -20.1721,
+      "longitude": 28.5695
+    },
+    "date": "2023-03-07",
+    "type": "Stalking",
+    "description": "A person was being stalked by an unknown individual.",
+    "address": {
+      "street": "135 Birch St",
+      "city": "Bulawayo",
+      "country": "Zimbabwe"
+    },
+    "time": "5:00 PM",
+    "status": "In Progress",
+    "investigating_officer": "Officer Taylor",
+    "witnesses": [],
+    "evidence": [
+      "CCTV footage",
+      "License plate number"
+    ],
+    "vehicle_involved": {
+      "make": "Tesla",
+      "model": "Model 3",
+      "color": "Blue",
+      "license_plate": "STU-901"
+    }
+  },
+  {
+    "location": {
+      "latitude": -20.1721,
+      "longitude": 28.5695
+    },
+    "date": "2023-03-08",
+    "type": "Harassment",
+    "description": "A person was being harassed by an ex-partner.",
+    "address": {
+      "street": "246 Cherry St",
+      "city": "Bulawayo",
+      "country": "Zimbabwe"
+    },
+    "time": "8:30 AM",
+    "status": "Closed",
+    "investigating_officer": "Officer Moore",
+    "witnesses": [
+      "Emily Davis"
+    ],
+    "evidence": [
+      "Text messages",
+      "Phone records"
+    ],
+    "vehicle_involved": {
+      "make": "Mazda",
+      "model": "CX-5",
+      "color": "Red",
+      "license_plate": "VWX-023"
+    }
+  },
+  {
+    "location": {
+      "latitude": -20.1721,
+      "longitude": 28.5695
+    },
+    "date": "2023-03-09",
+    "type": "Domestic Violence",
+    "description": "A person was physically abused by a family member.",
+    "address": {
+      "street": "369 Willow St",
+      "city": "Bulawayo",
+      "country": "Zimbabwe"
+    },
+    "time": "3:15 PM",
+    "status": "Open",
+    "investigating_officer": "Officer Hall",
+    "witnesses": [],
+    "evidence": [
+      "Medical records",
+      "Photos of injuries"
+    ],
+    "vehicle_involved": {
+      "make": "Subaru",
+      "model": "Outback",
+      "color": "Silver",
+      "license_plate": "YZA-456"
+    }
+  },
+  {
+    "location": {
+      "latitude": -20.1721,
+      "longitude": 28.5695
+    },
+    "date": "2023-03-10",
+    "type": "Cyberbullying",
+    "description": "A person was being bullied online.",
+    "address": {
+      "street": "587 Hickory St",
+      "city": "Bulawayo",
+      "country": "Zimbabwe"
+    },
+    "time": "10:00 AM",
+    "status": "In Progress",
+    "investigating_officer": "Officer Thompson",
+    "witnesses": [],
+    "evidence": [
+      "Screenshots of messages",
+      "IP addresses"
+    ],
+    "vehicle_involved": {
+      "make": "Volkswagen",
+      "model": "Jetta",
+      "color": "Black",
+      "license_plate": "KLM-789"
+    }
+  },
+  {
+    "location": {
+      "latitude": -20.1721,
+      "longitude": 28.5695
+    },
+    "date": "2023-03-11",
+    "type": "Drug Offense",
+    "description": "A person was caught selling drugs.",
+    "address": {
+      "street": "701 Elm St",
+      "city": "Bulawayo",
+      "country": "Zimbabwe"
+    },
+    "time": "1:30 PM",
+    "status": "Closed",
+    "investigating_officer": "Officer Mitchell",
+    "witnesses": [
+      "James Johnson"
+    ],
+    "evidence": [
+      "Drugs seized",
+      "Scales and baggies"
+    ],
+    "vehicle_involved": {
+      "make": "Mercedes-Benz",
+      "model": "C-Class",
+      "color": "White",
+      "license_plate": "NOP-123"
+    }
+  },
+  {
+    "location": {
+      "latitude": -20.1721,
+      "longitude": 28.5695
+    },
+    "date": "2023-03-12",
+    "type": "Vehicle Theft",
+    "description": "A car was stolen from a parking lot.",
+    "address": {
+      "street": "815 Oak St",
+      "city": "Bulawayo",
+      "country": "Zimbabwe"
+    },
+    "time": "6:00 PM",
+    "status": "Open",
+    "investigating_officer": "Officer Carter",
+    "witnesses": [],
+    "evidence": [
+      "Security camera footage"
+    ],
+    "vehicle_involved": {
+      "make": "BMW",
+      "model": "3 Series",
+      "color": "Blue",
+      "license_plate": "QRS-456"
+    }
+  },
+  {
+    "location": {
+      "latitude": -20.1721,
+      "longitude": 28.5695
+    },
+    "date": "2023-03-13",
+    "type": "Public Intoxication",
+    "description": "A person was found drunk in public.",
+    "address": {
+      "street": "934 Maple St",
+      "city": "Bulawayo",
+      "country": "Zimbabwe"
+    },
+    "time": "9:45 PM",
+    "status": "Closed",
+    "investigating_officer": "Officer Adams",
+    "witnesses": [
+      "Olivia Brown"
+    ],
+    "evidence": [
+      "Breathalyzer test results"
+    ],
+    "vehicle_involved": {
+      "make": "Ford",
+      "model": "Fusion",
+      "color": "Gray",
+      "license_plate": "TUV-678"
+    }
+  },
+  {
+    "location": {
+      "latitude": -20.1721,
+      "longitude": 28.5695
+    },
+    "date": "2023-03-14",
+    "type": "Trespassing",
+    "description": "A person was caught trespassing on private property.",
+    "address": {
+      "street": "1056 Pine St",
+      "city": "Bulawayo",
+      "country": "Zimbabwe"
+    },
+    "time": "12:15 PM",
+    "status": "Open",
+    "investigating_officer": "Officer Johnson",
+    "witnesses": [],
+    "evidence": [
+      "Security camera footage",
+      "Property owner's statement"
+    ],
+    "vehicle_involved": {
+      "make": "Toyota",
+      "model": "Corolla",
+      "color": "Green",
+      "license_plate": "WXY-901"
+    }
+  }
+]

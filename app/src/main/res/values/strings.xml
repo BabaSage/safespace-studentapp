@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">SafeSpace</string>
+    <string name="my_map_api_key">AIzaSyByZmX0dcZz38sBWzHAmTpZQnQ8_Sw6Mpw</string>
+    <string name="title_activity_main_menu">MainMenu</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+
+    <string name="menu_Register">Register</string>
+    <string name="menu_LocationTracking">Location Tracking</string>
+    <string name="menu_SecureMessaging">Secure Messaging</string>
+    <string name="menu_IncidentReport">Incident Report</string>
+    <string name="menu_CrimeMapping">Crime Mapping</string>
+    <string name="menu_EmergencyContacts">Emergency Contacts</string>
+    <string name="menu_SelfProtectionRescue">Self Protection and Rescue</string>
+    <string name="menu_SettingsPreference">Settings and Preference</string>
+    <string name="menu_TermsandConditions">Terms and Conditions</string>
+    <string name="menu_About">About</string>
+
+
+</resources>

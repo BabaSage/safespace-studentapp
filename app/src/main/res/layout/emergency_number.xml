@@ -1,0 +1,88 @@
+<ScrollView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+
+    android:fillViewport="true">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:padding="16dp">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Safe Space User Emergency Numbers"
+            android:textSize="24sp"
+            android:textStyle="bold" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="1.POLICE STATIONS/SERVICES 995
+Harare
+.Police Station Central(+263 4)748 836/77651
+  *address:Kenneth Kaunda Avenue,Central Harare
+.Armed Robberries:7728330979
+.CID-Homicide:773025695
+.Police Station Borrowdale(+263 4)336632
+  *address Borrowdale Road,Borrowdale,Harare
+Bulawayo
+.Bulawayo Police(+263 9)996 Bulawayo
+.Police Special Tactic(+263)04 497906,0772 461 395
+Victoria Falls
+.Victoria Falls Police(+263)23 42206
+.Victoria Falls Bridge (Customers and Immigration(263)1344238
+---This numbers will give you access to Zimbabwe Police
+."
+            android:textSize="18sp"
+            android:paddingTop="16dp" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="2.AMBULANCES SERVICES
+EMRAS_HARARE
+ .0772141610
+ .04-797 479/04-911
+EMRAS_BULAWAYO
+ .0772141612
+ .09-62611/62155
+EMRAS_GWERU
+ .0772141612
+ .054-221 214/227256
+EMRAS_MUTARE
+ .0772141613
+ .020-62107
+EMRAS_MASVINGO
+ .0772141615
+ .039-262463
+EMRAS_KWEKWE
+ .0772141614
+ .055-22664/22778
+EMRAS_BINDURA
+ .0772190381
+ .0271-6141/7239
+EMRAS_VICTORIA FALLS
+ .0732146256
+ .013-46052/53
+ ."
+            android:textSize="18sp"
+            android:paddingTop="8dp" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="3.FIRE DEPARTMENTS
+ .993
+ .04 720206(Harare)
+"
+            android:textSize="18sp"
+            android:paddingTop="8dp" />
+
+
+
+    </LinearLayout>
+</ScrollView>

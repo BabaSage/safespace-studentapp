@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <item>
+        <shape android:shape="rectangle">
+            <solid android:color="#FFFFFF" /> <!-- White color for background -->
+        </shape>
+    </item>
+    <item>
+        <shape android:shape="oval">
+            <solid android:color="#2196F3" /> <!-- Blue color for spots -->
+            <size android:height="20dp" android:width="20dp" />
+        </shape>
+    </item>
+    <item android:top="20dp" android:left="20dp">
+        <shape android:shape="oval">
+            <solid android:color="#FFFFFF" /> <!-- White color for spots -->
+            <size android:height="10dp" android:width="10dp" />
+        </shape>
+    </item>
+    <item android:top="40dp" android:left="40dp">
+        <shape android:shape="oval">
+            <solid android:color="#2196F3" /> <!-- Blue color for spots -->
+            <size android:height="15dp" android:width="15dp" />
+        </shape>
+    </item>
+    <!-- Add more items to create more spots -->
+</layer-list>

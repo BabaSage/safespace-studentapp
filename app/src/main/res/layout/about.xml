@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:padding="16dp"
+    android:background="@drawable/cr">
+
+    <TextView
+        android:id="@+id/textViewTitle"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="About Us"
+        android:textSize="24sp"
+        android:textStyle="bold"
+        android:layout_centerHorizontal="true"
+        android:layout_marginBottom="16dp"/>
+
+    <TextView
+        android:id="@+id/textViewDescription"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="The Safe Space application was developed and designed by Farai Peter Junior Mushipe, following the concept proposed by Sandisiwe Nkomazana. The app aims to enhance personal safety and community security by providing immediate assistance in dangerous situations and facilitating swift action by law enforcement authorities.
+Key features of Safe Space include a panic button for immediate distress alerts, location tracking for accurate response coordination, secure messaging with security personnel, incident reporting tools, crime mapping functionalities, and resources for self-protection and crime prevention. The app also includes a color-coded emergency ranking system and all Zimbabwean emergency response team numbers.
+Safe Space is expected to revolutionize crime reporting and emergency response mechanisms, fostering a safer and more vigilant community in Zimbabwe. The app is slated for launch within months following approval, with a focus on user testing, security protocols, and collaboration with law enforcement agencies.
+The project budget encompasses development costs, security infrastructure investments, and outreach efforts to promote app adoption among community members. Partnerships with local authorities, security firms, and safety organizations will be pivotal in ensuring the effectiveness and reach of Safe Space.
+The expected impact of Safe Space includes improved response times to distress signals, increased crime resolution rates, positive user testimonials on safety improvements, and partnerships with law enforcement agencies. A sustainability plan involves revenue generation through premium security features, community engagement initiatives, and potential collaborations with public safety agencies.
+Safe Space embodies the spirit of innovation and social impact by harnessing technology to enhance personal safety and community security, contributing to a safer future for all.."
+        android:textSize="16sp"
+        android:layout_below="@id/textViewTitle"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="16dp"/>
+
+</RelativeLayout>

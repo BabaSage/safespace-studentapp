@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="16dp">
+
+        <TextView
+            android:id="@+id/text_view_1"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Self-Defense Steps and Moves:"
+            android:textSize="18sp"
+            android:textStyle="bold" />
+
+        <TextView
+            android:id="@+id/text_view_2"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/text_view_1"
+            android:text="Step 1: Awareness\n- Be mindful of your surroundings and potential threats.\n- Trust your instincts and avoid situations that feel unsafe.\n\nStep 2: Verbal De-escalation\n- Use a firm but calm tone to deter an attacker.\n- Say 'Back off' or 'Leave me alone' clearly and assertively.\n\nStep 3: Boundary Setting\n- Use your body to create distance and set boundaries.\n- Stand with your feet shoulder-width apart and your hands up in a defensive position.\n\nBasic Self-Defense Moves:\n1. Palm Strike: Strike an attacker's face or chest with the heel of your palm.\n2. Elbow Strike: Use your elbow to strike an attacker's face, chest, or stomach.\n3. Knee Strike: Strike an attacker's groin or stomach with your knee.\n4. Heel Kick: Kick an attacker's shin, knee, or groin with the heel of your foot.\n5. Escape: Use your hands and feet to create distance and escape the situation.\n\nAdditional Tips:\n- Use your voice to attract attention and deter an attacker.\n- Aim for vulnerable areas like the eyes, throat, and groin.\n- Use your surroundings to your advantage (e.g., use a nearby object as a weapon).\n- Practice self-defense techniques regularly to build confidence and muscle memory.\n\nRemember, self-defense is not just about physical moves – it's also about being aware, assertive, and prepared."
+            android:layout_marginTop="16dp" />
+
+        <ImageView
+            android:id="@+id/imageView61"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/text_view_2"
+            android:layout_marginTop="16dp"
+            android:src="@drawable/rs0" />
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/imageView61"
+            android:layout_marginTop="16dp"
+            android:gravity="center"
+            android:orientation="horizontal">
+
+            <Button
+                android:id="@+id/button41"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:text="Next Image" />
+
+            <Button
+                android:id="@+id/button42"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:text="Search on YouTube" />
+
+        </LinearLayout>
+
+    </RelativeLayout>
+
+</ScrollView>

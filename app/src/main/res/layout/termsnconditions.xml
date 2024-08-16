@@ -1,0 +1,112 @@
+<ScrollView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/diamond_background"
+    android:fillViewport="true">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:padding="16dp">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Safe Space Terms and Conditions"
+            android:textSize="24sp"
+            android:textStyle="bold" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="1.Usage Agreement:
+Users must agree to the terms and conditions before using the Safe Space application.
+By using the app, users agree to abide by the guidelines and rules outlined in the terms and conditions.
+"
+            android:textSize="18sp"
+            android:paddingTop="16dp" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="2. Safety Disclaimer:
+The application provides assistance and safety features but does not guarantee absolute safety.
+Users are responsible for their actions and decisions while using the app.
+"
+            android:textSize="18sp"
+            android:paddingTop="8dp" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="3. Data Collection and Privacy:
+The app may collect personal information for user identification and emergency response purposes.
+User data will be handled securely and in compliance with data protection regulations.
+"
+            android:textSize="18sp"
+            android:paddingTop="8dp" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="4.Emergency Response:
+Users understand that the app's emergency response features are dependent on network connectivity and may vary based on location and circumstances.
+The app is not a substitute for contacting emergency services directly in life-threatening situations.
+"
+            android:textSize="18sp"
+            android:paddingTop="8dp" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="5. Reporting Guidelines:
+Users are encouraged to report crimes and safety concerns accurately and responsibly.
+False reporting or misuse of the app for non-emergency purposes may result in account suspension.
+"
+            android:textSize="18sp"
+            android:paddingTop="8dp" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="6.Appropriate Use:
+The app is intended for legitimate safety and security purposes only.
+Users must not engage in any unlawful activities or misuse the app's features.
+"
+            android:textSize="18sp"
+            android:paddingTop="8dp" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="7. Liability:
+The app developers are not liable for any damages, losses, or consequences resulting from the use of the Safe Space application.
+Users agree to use the app at their own risk and discretion.
+"
+            android:textSize="18sp"
+            android:paddingTop="8dp" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="8. Updates and Modifications:
+The app developers reserve the right to update, modify, or discontinue features of the Safe Space application.
+Users will be notified of any significant changes to the app's functionality or terms of use.
+"
+            android:textSize="18sp"
+            android:paddingTop="8dp" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="9. Contact Information:
+Users can contact the app support team for assistance, feedback, or inquiries related to the Safe Space application.
+These terms and conditions aim to establish clear guidelines for users regarding the use of the Safe Space application, ensuring safety, privacy, and responsible usage of the app's features."
+            android:textSize="18sp"
+            android:paddingTop="8dp" />
+
+
+    </LinearLayout>
+</ScrollView>

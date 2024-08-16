@@ -1,0 +1,14 @@
+
+i
+java:S1192c"GDefine a constant instead of duplicating this literal "crimes" 4 times.(âşÖ™ûÿÿÿÿ8î¡™„ğ1
+J
+java:S16042"(Make this anonymous inner class a lambda(›ÚÔüÿÿÿÿ8•¢™„ğ1
+E
+java:S16049"(Make this anonymous inner class a lambda(šÙ‡‰8—¢™„ğ1
+i	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(Ş¤ô·8©¢™„ğ1
+w
+java:S1450"ZRemove the "mapFragment" field and declare it as a local variable in the relevant methods.(Åıùô8·™„ğ1
+H
+java:S1168m"+Return an empty collection instead of null.(¥¹ï8Ê¹™„ğ1
+9
+java:S3626—"Remove this redundant jump.(ÉŠ©ƒ8û¹™„ğ1

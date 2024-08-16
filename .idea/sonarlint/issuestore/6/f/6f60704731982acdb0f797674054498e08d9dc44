@@ -1,0 +1,16 @@
+
+E
+java:S1604 "(Make this anonymous inner class a lambda(œˆ¼8–Ö¥‡ğ1
+i	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(ßÆ™Ì8·‡ğ1
+t
+java:S3252'"WUse static access with "androidx.core.content.ContextCompat" for "checkSelfPermission".(òÄ‰‡8“Ò‡„ñ1
+i
+java:S5998"LRefactor this repetition that can lead to a stack overflow for large inputs.(÷î¹™8¶Ò‡„ñ1
+T
+java:S18744"2Remove this use of "getDefault"; it is deprecated.(ÜÏÊÿÿÿÿÿ8½Ò‡„ñ1
+
+java:S1186<"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(«û³±8ÃÒ‡„ñ1
+
+java:S1186I"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(±¾ê8ÃÒ‡„ñ1
+l
+java:S1874O"JDon't override a deprecated method or explicitly mark it as "@Deprecated".(Û›ë´øÿÿÿÿ8ÍÒ‡„ñ1

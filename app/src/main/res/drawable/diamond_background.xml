@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <item>
+        <shape android:shape="rectangle">
+            <size
+                android:height="48dp"
+                android:width="48dp" />
+            <gradient
+                android:centerColor="#10000000"
+                android:endColor="#10FFFFFF"
+                android:startColor="#10000000"
+                android:type="linear"
+                android:angle="45" />
+        </shape>
+    </item>
+    <item>
+        <rotate
+            android:fromDegrees="45">
+            <shape android:shape="rectangle">
+                <size
+                    android:height="48dp"
+                    android:width="48dp" />
+                <gradient
+                    android:centerColor="#10000000"
+                    android:endColor="#10FFFFFF"
+                    android:startColor="#10000000"
+                    android:type="linear"
+                    android:angle="45" />
+            </shape>
+        </rotate>
+    </item>
+    <item>
+        <rotate
+            android:fromDegrees="90">
+            <shape android:shape="rectangle">
+                <size
+                    android:height="48dp"
+                    android:width="48dp" />
+                <gradient
+                    android:centerColor="#10000000"
+                    android:endColor="#10FFFFFF"
+                    android:startColor="#10000000"
+                    android:type="linear"
+                    android:angle="45" />
+            </shape>
+        </rotate>
+    </item>
+    <item>
+        <rotate
+            android:fromDegrees="135">
+            <shape android:shape="rectangle">
+                <size
+                    android:height="48dp"
+                    android:width="48dp" />
+                <gradient
+                    android:centerColor="#10000000"
+                    android:endColor="#10FFFFFF"
+                    android:startColor="#10000000"
+                    android:type="linear"
+                    android:angle="45" />
+            </shape>
+        </rotate>
+    </item>
+</layer-list>

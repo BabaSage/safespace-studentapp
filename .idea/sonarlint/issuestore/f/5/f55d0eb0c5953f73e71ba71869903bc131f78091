@@ -1,0 +1,31 @@
+
+J
+java:S1604S"(Make this anonymous inner class a lambda(›ÚÔüÿÿÿÿ8ß¾û±ú1
+E
+java:S1604]"(Make this anonymous inner class a lambda(šÙ‡‰8à¾û±ú1
+E
+java:S1604s"(Make this anonymous inner class a lambda(ìë¤²8¨éœı1
+i	java:S101""MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(‹‘ëù8‘ô™òé1
+€	java:S116$"_Rename this field "FINE_PERMISSION_CODE" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ªê»ùÿÿÿÿ8÷™òé1
+C
+java:S1170$"!Make this final field static too.(ªê»ùÿÿÿÿ8¹÷™òé1
+}
+java:S1450)"[Remove the "zoomInButton" field and declare it as a local variable in the relevant methods.(´õ¨úÿÿÿÿ8©Ãû±ú1
+y
+java:S1450*"\Remove the "zoomOutButton" field and declare it as a local variable in the relevant methods.(­ò´ß8«Ãû±ú1
+]
+java:S1874=";Remove this use of "getFromLocationName"; it is deprecated.(º°ø»şÿÿÿÿ8î÷™òé1
+Z
+java:S1854W"=Remove this useless assignment to local variable "zoomLevel".(Ğ‘‹¾8€Äû±ú1
+K
+java:S1481W".Remove this unused "zoomLevel" local variable.(Ğ‘‹¾8…Äû±ú1
+Z
+java:S1854a"=Remove this useless assignment to local variable "zoomLevel".(Ğ‘‹¾8‹Äû±ú1
+K
+java:S1481a".Remove this unused "zoomLevel" local variable.(Ğ‘‹¾8Äû±ú1
+y
+java:S3252l"WUse static access with "androidx.core.content.ContextCompat" for "checkSelfPermission".(»¤è«ıÿÿÿÿ8Î’éœı1
+t
+java:S3252m"WUse static access with "androidx.core.content.ContextCompat" for "checkSelfPermission".(§Ú¶8Ñ’éœı1
+m
+java:S1874Š"JDon't override a deprecated method or explicitly mark it as "@Deprecated".(Ó»×¶şÿÿÿÿ8ë’éœı1

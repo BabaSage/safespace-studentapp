@@ -1,0 +1,17 @@
+
+n
+java:S11926"LDefine a constant instead of duplicating this literal "dataSetList" 3 times.(Ä†îËşÿÿÿÿ8ÁèÌ™å1
+E
+java:S1604?"(Make this anonymous inner class a lambda(éÙÏ–8ÂèÌ™å1
+F
+java:S1604‰"(Make this anonymous inner class a lambda(Ï¤â“8ÃèÌ™å1
+K
+java:S1604 "(Make this anonymous inner class a lambda(’ÄÕ±ÿÿÿÿÿ8ÃèÌ™å1
+l
+java:S1659"JDeclare "emailEditText" and all following declarations on a separate line.(Åª©Åşÿÿÿÿ8ûÏ¹™å1
+m
+java:S1659"KDeclare "retrieveButton" and all following declarations on a separate line.(şøáøûÿÿÿÿ8ëÌ™å1
+[
+java:S18743"9Remove this use of "PreferenceManager"; it is deprecated.(©Ÿşáûÿÿÿÿ8¿ëÌ™å1
+e
+java:S18743"CRemove this use of "getDefaultSharedPreferences"; it is deprecated.(©Ÿşáûÿÿÿÿ8ÀëÌ™å1

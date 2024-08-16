@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:id="@+id/group1">
+        <item
+            android:id="@+id/Register"
+            android:icon="@drawable/egistration"
+            android:orderInCategory="100"
+            android:title="Register" />
+        <item
+            android:id="@+id/LocationTracking"
+            android:orderInCategory="100"
+            android:title="Location Tracking"
+            android:icon="@drawable/location"/>
+        <item
+            android:id="@+id/SecureMessaging"
+            android:orderInCategory="100"
+            android:title="Secure Messaging"
+            android:icon="@drawable/message"/>
+    </group>
+
+    <group android:id="@+id/group2">
+        <item
+            android:id="@+id/IncidentReport"
+            android:orderInCategory="100"
+            android:title="Incident Report"
+            android:icon="@drawable/report"/>
+
+        <item
+            android:id="@+id/CrimeMapping"
+            android:orderInCategory="100"
+            android:title="Crime Mapping"
+            android:icon="@drawable/mapping"/>
+
+        <item
+            android:id="@+id/EmergencyContact"
+            android:orderInCategory="100"
+            android:title="Emergency Contacts"
+            android:icon="@drawable/contact_emergency_24"/>
+    </group>
+
+    <group android:id="@+id/group3">
+        <item
+            android:id="@+id/SelfProtectionRescue"
+            android:orderInCategory="100"
+            android:title="Self Protection and Rescue"
+            android:icon="@drawable/rescue"/>
+
+        <item
+            android:id="@+id/Instructions"
+            android:orderInCategory="100"
+            android:title="Instructions"
+            android:icon="@drawable/settings"/>
+
+        <item
+            android:id="@+id/TermsandConditions"
+            android:orderInCategory="100"
+            android:title="Terms and Conditions"
+            android:icon="@drawable/termscondi"/>
+    </group>
+
+    <group android:id="@+id/group4">
+        <item
+            android:id="@+id/notifications"
+            android:orderInCategory="100"
+            android:title="Notifications"
+            android:icon="@drawable/notifications"/>
+        <item
+            android:id="@+id/feedback"
+            android:orderInCategory="100"
+            android:title="Feedback"
+            android:icon="@drawable/feedback"/>
+        <item
+            android:id="@+id/About"
+            android:orderInCategory="100"
+            android:title="About"
+            android:icon="@drawable/about"/>
+    </group>
+    <group android:id="@+id/group5">
+        <item
+            android:id="@+id/ContactUs"
+            android:orderInCategory="100"
+            android:title="Contact Us"
+            android:icon="@drawable/contact"/>
+        <item
+            android:id="@+id/GuardianAi"
+            android:orderInCategory="100"
+            android:title="SafetyAI"
+            android:icon="@drawable/chatbot"/>
+
+    </group>
+</menu>

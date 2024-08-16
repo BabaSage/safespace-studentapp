@@ -1,0 +1,36 @@
+
+E
+java:S16040"(Make this anonymous inner class a lambda(üÓ˜º8ÎúŸ„ò1
+E
+java:S16047"(Make this anonymous inner class a lambda(ƒŸì®8ÑúŸ„ò1
+J
+java:S1604>"(Make this anonymous inner class a lambda(àºŒ×ùÿÿÿÿ8ÒúŸ„ò1
+E
+java:S1604E"(Make this anonymous inner class a lambda(¦µ”´8ÔúŸ„ò1
+E
+java:S1604L"(Make this anonymous inner class a lambda(äå¨¥8ÔúŸ„ò1
+n	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(¼ä…ıÿÿÿÿ8ÙúŸ„ò1
+€
+java:S1450"^Remove the "mDocumentButton" field and declare it as a local variable in the relevant methods.(ºœıÿÿÿÿ8ÖşŸ„ò1
+
+java:S1450"]Remove the "mPictureButton" field and declare it as a local variable in the relevant methods.(ñâÏ„úÿÿÿÿ8×şŸ„ò1
+~
+java:S1450 "\Remove the "mSubmitButton" field and declare it as a local variable in the relevant methods.(æĞó²ûÿÿÿÿ8ØşŸ„ò1
+}
+java:S1450"[Remove the "mVideoButton" field and declare it as a local variable in the relevant methods.(şì¨‘ÿÿÿÿÿ8ÙşŸ„ò1
+x
+java:S1450"[Remove the "mVoiceButton" field and declare it as a local variable in the relevant methods.(ˆÛ¬8ÚşŸ„ò1
+]
+java:S1854["@Remove this useless assignment to local variable "evidenceType".(Ü´³™8¼ÿŸ„ò1
+N
+java:S1481["1Remove this unused "evidenceType" local variable.(Ü´³™8ÇÿŸ„ò1
+`
+java:S1874n">Remove this use of "startActivityForResult"; it is deprecated.(ø’‘ışÿÿÿÿ8€ „ò1
+`
+java:S1874u">Remove this use of "startActivityForResult"; it is deprecated.(ø’‘ışÿÿÿÿ8§€ „ò1
+g
+java:S1874y"JDon't override a deprecated method or explicitly mark it as "@Deprecated".(ŸŒ¹Ñ8©€ „ò1
+x
+java:S3252ƒ"UUse static access with "android.provider.MediaStore$MediaColumns" for "DISPLAY_NAME".(—´à“üÿÿÿÿ8¶ÄÇ„ò1
+U
+java:S1172Œ"2Remove this unused method parameter "phoneNumber".(€÷º²ıÿÿÿÿ8Ÿ „ò1

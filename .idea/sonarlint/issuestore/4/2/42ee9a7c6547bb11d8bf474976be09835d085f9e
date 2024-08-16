@@ -1,0 +1,15 @@
+
+q
+java:S1104"VMake SENT_BY_ME a static final constant or non-public and provide accessors if needed.(˜±Ä²úÿÿÿÿ
+m
+java:S1104"WMake SENT_BY_BOT a static final constant or non-public and provide accessors if needed.(™ÌêÙ
+K
+java:S1444"0Make this "public static SENT_BY_ME" field final(˜±Ä²úÿÿÿÿ
+G
+java:S1444"1Make this "public static SENT_BY_BOT" field final(™ÌêÙ
++
+java:S1700"Rename field "message"(ó—Ø.
+p
+java:S3008"URename this field "SENT_BY_ME" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(˜±Ä²úÿÿÿÿ
+l
+java:S3008"VRename this field "SENT_BY_BOT" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(™ÌêÙ

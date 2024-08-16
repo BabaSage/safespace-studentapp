@@ -1,0 +1,53 @@
+
+q
+java:S1192•"NDefine a constant instead of duplicating this literal "+263780932494" 3 times.(é¿¾¦ıÿÿÿÿ8™†š„ğ1
+J
+java:S1604A"(Make this anonymous inner class a lambda(ª¤Û¨ıÿÿÿÿ8µãÓ‚ï1
+J
+java:S1604H"(Make this anonymous inner class a lambda(é°¤üÿÿÿÿ8óÜèœı1
+K
+java:S1604 "(Make this anonymous inner class a lambda(úÀá±úÿÿÿÿ8á½º€ê1
+F
+java:S1604¦"(Make this anonymous inner class a lambda(Õâ€°8’¦û±ú1
+K
+java:S1604¯"(Make this anonymous inner class a lambda(ŞÃÿîÿÿÿÿÿ8á½º€ê1
+F
+java:S1604¶"(Make this anonymous inner class a lambda(¾º‡ã8á½º€ê1
+F
+java:S1604È"(Make this anonymous inner class a lambda(µÙ§š8ûÜèœı1
+F
+java:S1604ş"(Make this anonymous inner class a lambda(µÙ§š8ıÜèœı1
+}
+java:S1450("[Remove the "drawerToggle" field and declare it as a local variable in the relevant methods.(õÄàıÿÿÿÿ8Ï°û±ú1
+v
+java:S1450*"YRemove the "fireButton" field and declare it as a local variable in the relevant methods.(ÿâ–ù8‰Áº€ê1
+y
+java:S1450+"\Remove the "medicalButton" field and declare it as a local variable in the relevant methods.(ØË‹Ü8Áº€ê1
+z
+java:S1450)"]Remove the "navigationView" field and declare it as a local variable in the relevant methods.(‰Ë”ë8Û°û±ú1
+}
+java:S1450,"[Remove the "policeButton" field and declare it as a local variable in the relevant methods.(»®ø‘úÿÿÿÿ8”Áº€ê1
+x
+java:S1450-"[Remove the "rescuebutton" field and declare it as a local variable in the relevant methods.(·Áîô8â°û±ú1
+t
+java:S37769"RRefactor this method to reduce its Cognitive Complexity from 17 to the 15 allowed.(¨Œşÿÿÿÿ8ÒÁº€ê1
+U
+java:S1874Ş"2Remove this use of "getDefault"; it is deprecated.(ÜÏÊÿÿÿÿÿ8ÁÁº€ê1
+m
+java:S1874é"JDon't override a deprecated method or explicitly mark it as "@Deprecated".(Ó»×¶şÿÿÿÿ8Âÿèœı1
+`
+java:S1854„"=Remove this useless assignment to local variable "longitude".(Üâùøÿÿÿÿ8µû±ú1
+Z
+java:S1854ƒ"<Remove this useless assignment to local variable "latitude".(°¾°—8µû±ú1
+K
+java:S1481ƒ"-Remove this unused "latitude" local variable.(°¾°—8¥µû±ú1
+Q
+java:S1481„".Remove this unused "longitude" local variable.(Üâùøÿÿÿÿ8¨µû±ú1
+]
+java:S1068/";Remove this unused "PERMISSION_REQUEST_CODE" private field.(§ŒåÚøÿÿÿÿ8ø‹š„ğ1
+j
+java:S10681"HRemove this unused "CAMERA_AUDIO_PERMISSION_REQUEST_CODE" private field.(ŞôüÈşÿÿÿÿ8Çµû±ú1
+N
+java:S10683"1Remove this unused "mediaRecorder" private field.(İ¥ Œ8Éµû±ú1
+L
+java:S10684"/Remove this unused "dataSetList" private field.(»É…Ì8Êµû±ú1

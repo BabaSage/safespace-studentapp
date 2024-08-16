@@ -1,0 +1,112 @@
+<ScrollView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:fillViewport="true">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:padding="16dp">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Safe Space User Instructions"
+            android:textSize="24sp"
+            android:textStyle="bold" />
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textStyle="bold"
+            android:text="NB INTERNET IS NEEDED FOR SMOOTH OPERATION OF THE APP ."
+            android:textSize="18sp"
+            android:paddingTop="8dp" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="1. Download and Install the Safe Space App: To start using Safe Space, download the app from your mobile device's app store and install it."
+            android:textSize="18sp"
+            android:paddingTop="16dp" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="2. Initializing."
+            android:textSize="18sp"
+            android:paddingTop="8dp" />
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="2.1 For Secure Messaging please start by writing the phrase secure message1 followed by the message you want to write eg secure messege1 my name is Farai i stay in cowdry park i was abused please send help.PLEAS BE SPECIFIC"
+            android:textSize="18sp"
+            android:paddingTop="8dp" />
+
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="3. Familiarize Yourself with the Interface: Once your account is set up, explore the app's features, including the panic button, location tracking, secure messaging, incident reporting, and crime mapping functionalities."
+            android:textSize="18sp"
+            android:paddingTop="8dp" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="4. Set Up Emergency Contacts: Add your emergency contacts, such as family members, friends, or local authorities, to the app."
+            android:textSize="18sp"
+            android:paddingTop="8dp" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="5. Test the Panic Button: To ensure the panic button works correctly, test it in a safe environment. This will help you understand how the distress signal function works and how it alerts your emergency contacts and security teams."
+            android:textSize="18sp"
+            android:paddingTop="8dp" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="6. Use the Location Tracking Feature: Enable the location tracking feature to allow Safe Space to accurately determine your location during emergencies. This will help security teams coordinate their response and find you more quickly."
+            android:textSize="18sp"
+            android:paddingTop="8dp" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="7. Report Incidents: If you encounter a crime or safety concern, use the incident reporting feature to document the details and share them with local authorities and your emergency contacts."
+            android:textSize="18sp"
+            android:paddingTop="8dp" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="8. Utilize Crime Mapping Functionalities: Stay informed about crime trends in your area by using the crime mapping feature. This will help you make informed decisions about your safety and avoid potentially dangerous situations."
+            android:textSize="18sp"
+            android:paddingTop="8dp" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="9. Follow Self-Protection and Crime Prevention Tips: Safe Space provides resources and tips for self-protection and crime prevention. Familiarize yourself with these resources and apply them in your daily life to enhance your safety."
+            android:textSize="18sp"
+            android:paddingTop="8dp" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="10. Stay Updated: Regularly update the Safe Space app to ensure you have access to the latest features and improvements."
+            android:textSize="18sp"
+            android:paddingTop="8dp" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="11. Remember, Safe Space is designed to enhance your safety and provide immediate assistance in dangerous situations. Always be prepared and know how to use the app in case of an emergency."
+            android:textSize="18sp"
+            android:paddingTop="8dp" />
+
+    </LinearLayout>
+</ScrollView>
